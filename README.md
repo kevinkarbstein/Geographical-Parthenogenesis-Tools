@@ -7,6 +7,6 @@ The R script can perform (i) data import of flow cytometric (FC) and flow cytome
 
 
 
-If you use the code, please cite: 
+# If you use the code, please cite: 
 
 Karbstein K, Tomasello S, Hodač L, Wagner N, Marincek P, Barke BH, Pätzold C, Hörandl E. Untying Gordian knots: Unraveling reticulate polyploid evolution by RRS genomic data using the large Ranunculus auricomus species complex. New Phytologist, 2022; 235; 2081-2098. https://doi.org/10.1111/nph.18284
